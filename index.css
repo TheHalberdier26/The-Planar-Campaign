@@ -25,6 +25,10 @@ p {
   font-family: 'Wingdings';
 }
 
+.centre{
+  float: centre;
+}
+
 #world {
   width: 50%;
 }
