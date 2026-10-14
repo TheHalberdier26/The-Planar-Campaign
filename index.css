@@ -21,6 +21,10 @@ p {
   height: 60%;
 }
 
+.Wing{
+  font-family: 'Standard Galactic Alphabet Hand', sans-serif;
+}
+
 #world {
   width: 50%;
 }
