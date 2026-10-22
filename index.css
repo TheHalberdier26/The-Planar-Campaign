@@ -19,6 +19,10 @@ li {
   width: 60%;
 }
 
+table, tr, td {
+  border: 1px solid black;
+}
+
 .Map {
   width: 75%;
   height: 60%;
